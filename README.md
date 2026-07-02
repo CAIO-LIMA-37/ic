@@ -63,8 +63,8 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 | 10 | **Redes neurais recorrentes** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/9_redes_neurais_recorrentes.pdf) / 💻 [Jupyter notebook] |
 | 11 | **Transformers** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
 | 12 | **Mecanismos de atenção** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 13 | **LLMs: Parâmetros de Inferência** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 14 | **LLMs** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://colab.research.google.com/drive/1F3SgMyu6PNFA8_CTZkg5GvRw1Jl4MbkQ?usp=sharing) |
+| 13 | **LLMs: Parâmetros de Inferência** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://colab.research.google.com/drive/1F3SgMyu6PNFA8_CTZkg5GvRw1Jl4MbkQ?usp=sharing) |
+| 14 | **LLMs** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
 | 15 | **Aprendizado por reforço** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
 | 16 | **Redes grafos neurais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/14_redes_grafos_neurais.pdf) / 💻 [Jupyter notebook] |
 
